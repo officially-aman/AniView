@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary and Secondary Colors -->
+    <color name="colorPrimary">#009688</color> <!-- Teal -->
+    <color name="colorPrimaryDark">#00796B</color> <!-- Dark Teal -->
+    <color name="colorAccent">#FFC107</color> <!-- Amber -->
+
+    <!-- Background Color -->
+    <color name="backgroundColor">#FAFAFA</color> <!-- Light Gray Background -->
+
+    <!-- Text Colors -->
+    <color name="textPrimary">#212121</color> <!-- Dark Grey for primary text -->
+    <color name="textSecondary">#757575</color> <!-- Light Grey for secondary text -->
+
+    <!-- Card Background Color -->
+    <color name="cardBackground">#FFFFFF</color> <!-- White for card background -->
+
+    <!-- Button and Action Colors -->
+    <color name="buttonColor">#FFC107</color> <!-- Amber (for buttons) -->
+    <color name="white">#FFFFFF</color> <!-- White text on buttons -->
+
+    <!-- Status Bar -->
+    <color name="statusBarColor">#00796B</color> <!-- Dark Teal for Status Bar -->
+
+    <!-- Error Colors -->
+    <color name="errorColor">#F44336</color> <!-- Red (Error color) -->
+</resources>

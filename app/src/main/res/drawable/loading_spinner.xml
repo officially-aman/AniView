@@ -1,0 +1,14 @@
+<!-- res/drawable/loading_spinner.xml -->
+<rotate xmlns:android="http://schemas.android.com/apk/res/android"
+    android:fromDegrees="0"
+    android:pivotX="50%"
+    android:pivotY="50%"
+    android:toDegrees="360"
+    android:duration="800"
+    android:repeatCount="infinite">
+    <shape
+        android:shape="oval">
+        <solid android:color="@android:color/darker_gray" />
+        <size android:width="40dp" android:height="40dp"/>
+    </shape>
+</rotate>
